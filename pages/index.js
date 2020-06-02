@@ -15,10 +15,10 @@ export default function Home({ allPostsData }) {
         <p>
           Read{' '}
           <Link href="/posts/first-post">
-            <a>this page!</a>
+            <a>this page please!</a>
           </Link>
         </p>
-        <p>Hi! My name is Mike and I like coding.</p>
+        <p>Hi! My name is Michael Blom and I like coding.</p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
